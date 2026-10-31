@@ -1,0 +1,18 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "author": {
+    "name": "KAIROS AI Systems"
+  },
+  "description": "Designs a pay-up-front, hit-the-goal, fee-returns attraction offer whose criteria drive the behaviour that produces the result.",
+  "keywords": [
+    "back",
+    "designer",
+    "kairos",
+    "small business",
+    "win"
+  ],
+  "license": "MIT",
+  "name": "kairos-win-back-designer",
+  "repository": "https://github.com/baselam88/kairos-win-back-designer-plugin",
+  "version": "0.1.0"
+}
